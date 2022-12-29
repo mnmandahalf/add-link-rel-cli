@@ -1,0 +1,16 @@
+{
+  "name": "add-link-rel-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "node-html-parser": "^6.1.4"
+  },
+  "bin": {
+    "add-link-rel": "bin/cli.js"
+  }
+}
